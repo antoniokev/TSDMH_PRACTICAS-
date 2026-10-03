@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TSDMH_prac2_7S5_kevincastaneda</string>
+    <string name="splash_text">splashs creen</string>
+    <string name="wait_text">espera 5 segundos para cambio de pantalla</string>
+    <string name="menu_title">menu de opciones</string>
+    <string name="input_name_label">escribe tu nombre</string>
+    <string name="name_hint">Nombre</string>
+    <string name="greet_button">saluda</string>
+    <string name="greeting_format">saludos %s</string>
+    <string name="default_greeting">saludos</string>
+    <string name="empty_name_error">Por favor, escribe tu nombre</string>
+</resources>

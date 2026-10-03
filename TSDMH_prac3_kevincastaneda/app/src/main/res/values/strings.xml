@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TSDMH_prac3_kevincastaneda</string>
+    <string name="titulo_principal">ingresa tus datos</string>
+    <string name="etiqueta_nombre">ingresa tu nombre</string>
+    <string name="hint_nombre">Nombre completo</string>
+    <string name="etiqueta_edad">ingresa tu edad</string>
+    <string name="hint_edad">Edad</string>
+    <string name="boton_enviar">enviar</string>
+    <string name="mensaje_bienvenida">Bienvenido %1$s</string>
+    <string name="boton_aceptar">Aceptar</string>
+</resources>

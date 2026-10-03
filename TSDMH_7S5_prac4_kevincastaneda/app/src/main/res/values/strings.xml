@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TSDMH_7S5_prac4_kevincastaneda</string>
+    <string name="title_envio">Envío de parámetros entre actividades</string>
+    <string name="prompt_nombre">Escribe tu nombre</string>
+    <string name="btn_enviar">Enviar datos</string>
+    <string name="title_recepcion">Recepción de información</string>
+    <string name="info_proporcionada">La información proporcionada es:</string>
+    <string name="no_nombre">No se proporcionó nombre</string>
+</resources>

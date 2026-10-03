@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TSDMH_prac5_7S5_kevincastaneda</string>
+    <string name="envio_datos">Envío de datos</string>
+    <string name="ingresa_nombre">Ingresa su nombre:</string>
+    <string name="nombre">Nombre</string>
+    <string name="ingresa_edad">Ingresa su edad:</string>
+    <string name="edad">Edad</string>
+    <string name="enviar_datos">Enviar datos</string>
+    <string name="recepcion_info">Recepción de información</string>
+    <string name="info_proporcionada">La información proporcionada es:</string>
+    <string name="nombre_formato">Nombre: %1$s</string>
+    <string name="edad_formato">Edad: %1$s</string>
+    <string name="estado_formato">Estado: %1$s</string>
+    <string name="mayor_edad">Es mayor de edad</string>
+    <string name="menor_edad">Es menor de edad</string>
+    <string name="edad_no_valida">Edad no válida</string>
+    <string name="campos_vacios">Por favor, ingresa nombre y edad</string>
+</resources>
